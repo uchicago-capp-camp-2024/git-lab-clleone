@@ -1,3 +1,5 @@
 1. What word was changed in 'text/time-machine.txt'
-
+The color of the hair of the argumentative person. (from red to green)
 2. What did the script do to the file 'text/last-question.txt'
+The word "question" has been changed to "?"s. 
+
